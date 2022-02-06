@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabInvoiceGenerator", "CabInvoiceGenerator.csproj", "{4C365F76-848D-4837-9DA2-592F7C27794A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabInvoiceGeneratorUnitTest", "..\CabInvoiceGeneratorUnitTest\CabInvoiceGeneratorUnitTest.csproj", "{929A8129-32A7-4BEE-B67C-ADF8593BBEA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C365F76-848D-4837-9DA2-592F7C27794A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C365F76-848D-4837-9DA2-592F7C27794A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C365F76-848D-4837-9DA2-592F7C27794A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C365F76-848D-4837-9DA2-592F7C27794A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929A8129-32A7-4BEE-B67C-ADF8593BBEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929A8129-32A7-4BEE-B67C-ADF8593BBEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929A8129-32A7-4BEE-B67C-ADF8593BBEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929A8129-32A7-4BEE-B67C-ADF8593BBEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5161A48E-3813-4F80-A31B-AC9090E1AA7A}
+	EndGlobalSection
+EndGlobal
